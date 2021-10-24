@@ -1,15 +1,6 @@
-- 👋 Hi, I’m @reteam.id
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-reza838/reza838 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-# Games-Wabot
+# Im Newbie
 <a href="https://github.com/BochilGaming/games-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/BochilGaming/games-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/BochilGaming/games-wabot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/games-wabot?label=Stars&color=yellow&style=flat-square"></a>
@@ -29,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Contact Me In
 
-  <a href="https://instagram.com/nathanaelhananta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://www.instagram.com/reteam.id/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/18589527504/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtu.be/lLodz2UzUNg"><img src="https://img.shields.io/badge/YouTube-ZEROBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ZEROBOT7" /><br>
+<a href="https://youtu.be/_De5EgwBPM8"><img src="https://img.shields.io/badge/YouTube-Reza Temayang-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ZEROBOT7" /><br>
    <a href="https://github.com/reza838"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtu.be/_De5EgwBPM8"><img src="https://img.shields.io/youtube/channel/subscribers/UC7SydwUESoyOQ3qZZuoaNHw?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=ZeroChanBot&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ZeroChan&color=blue&style=flat-square&label=Profile+View"></a>
