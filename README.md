@@ -40,18 +40,6 @@
 
 ------
 
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=api-zeeoneofc&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Alpha-userbot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
